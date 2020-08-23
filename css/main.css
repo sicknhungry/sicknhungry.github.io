@@ -1,0 +1,37 @@
+.details {
+  text-align: justify;
+}
+
+ul {
+  text-align: justify;
+}
+.containermarketing {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.containerinfo {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-radius: 10px;
+  border: 2px solid black;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
